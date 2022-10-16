@@ -1,0 +1,1 @@
+Bu program denemeliktir. sadece nasıl atılacağını vesaire öğrenmek içindir.
